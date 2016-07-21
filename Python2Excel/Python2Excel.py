@@ -1,7 +1,7 @@
 #################################################################       
 # THIS PROGRAM WILL KEEP TRACK OF HOURS WORKED                  # 
 # MUST ENTER WEEKLY HOURS AND THEN COPY TO MONTHLY SPREADSHEET  #                                           
-# Author: Shane Cronk                                           #
+# Author: Shane Patrick Cronk                                   #
 # Date:   6/14/2016                                             #
 #                                                               #
 #################################################################
